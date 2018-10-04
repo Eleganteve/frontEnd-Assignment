@@ -1,0 +1,43 @@
+/* body {
+    text-align: center;
+} */
+form {
+    display: inline-block;
+}
+.logo h1{
+	float: left;
+	color: aliceblue;
+}
+.loco {
+   margin: auto;
+   margin-top: 10px;
+   padding: 14%;
+   border: solid 1px black;
+   width: 25%%;
+   margin-bottom: 65px;
+   border-radius: 25px;
+   line-height: 1.5em;
+   background-color: #0699b3;
+   border-color: whitesmoke;
+   background-attachment: fixed;
+}.loco input[type=text]{
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+.loco button{
+    width: 100%;
+}
+.logo a{
+    color: azure;
+}
+.data label {
+    text-shadow: 1em;
+}
+.data input {
+    border-radius: 15%;
+}
